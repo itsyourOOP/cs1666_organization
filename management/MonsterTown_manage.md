@@ -32,7 +32,7 @@
 		1. GOAL1
 		...
 7. 07/14 - 07/20
-	* Manager: NAME
+	* Manager: Azeez Hakeem (azh15)
 	* Goals:
 		1. GOAL1
 		...
