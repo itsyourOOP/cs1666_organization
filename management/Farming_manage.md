@@ -39,8 +39,13 @@
 6. 07/07 - 07/13
 	* Manager: Branden Brown (bjb137)
 	* Goals:
-		1. GOAL1
-		...
+		1. Refactor `fn main` to be at most 50 lines by creating a struct type to manage game state.
+		2. Implement growth rate as a trait that can be passed from parent to offspring. Not necessarily genetically optimizing.
+		3. Track player money and inventory, incl. seeds and harvested crops.
+		4. Fully implement harvesting, incl. gaining seeds and harvested crops.
+		5. Add a vendor with static prices for selling seeds and buying harvests.
+		6. Shore up incomplete assets: player up sprite, traveling transition screen, &c.
+		7. Finish market area: correct scrolling, collisions, ability to return, &c.
 7. 07/14 - 07/20
 	* Manager: NAME
 	* Goals:
