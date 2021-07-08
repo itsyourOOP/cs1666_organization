@@ -29,8 +29,13 @@
 6. 07/07 - 07/13
 	* Manager: Burhan Bhatti(bub3)
 	* Goals:
-		1. GOAL1
-		...
+		1. Place NPC trainers scattered throughout the map
+  		2. NPC are moving back and forth waiting for player to interact
+  		3. Approaching an NPC  causes a menu to pop up which gives you the option to battle or bail
+  		4. NPC are given uniform levels and random pokemon
+  		5. Research procedural generation and submit
+  		6. Provide UI that displays spawnable specs when monsters are deployed
+  		7. NPC trainers battle using random logic
 7. 07/14 - 07/20
 	* Manager: NAME
 	* Goals:
