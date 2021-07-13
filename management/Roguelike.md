@@ -29,7 +29,14 @@
 6. 07/07 - 07/13
 	* Manager: Keyon Hedayati (keh204)
 	* Goals:
-		1. GOAL1
+		1. Test rooms used to demonstrate mechanics
+		1. Player model moving/ interaction/ attack
+		1. Character can attack and kill enemies
+		1. Enemy models moving/ attacking
+		1. 1 enemy for each stat type designed
+		1. Final enemy in room is “absorbed”
+		1. Player character able to die
+		1. UI is complete
 		...
 7. 07/14 - 07/20
 	* Manager: Joe Cavanaugh (joc133)
