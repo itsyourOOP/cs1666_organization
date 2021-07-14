@@ -37,7 +37,7 @@
   		6. Provide UI that displays spawnable specs when monsters are deployed
   		7. NPC trainers battle using random logic
 7. 07/14 - 07/20
-	* Manager: NAME
+	* Manager: 
 	* Goals:
 		1. GOAL1
 		...
@@ -47,7 +47,7 @@
 		1. GOAL1
 		...
 9. 07/28 - 08/03
-	* Manager: REQUIRED
+	* Manager: Azeez Hakeem (azh15)
 	* Goals:
 		1. GOAL1
 		...		
