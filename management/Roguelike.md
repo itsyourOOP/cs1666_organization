@@ -41,8 +41,15 @@
 7. 07/14 - 07/20
 	* Manager: Joe Cavanaugh (joc133)
 	* Goals:
-		1. To be determined...
-		...
+		1. Walkability for enemies so that they interact with tiles appropriately
+		2. Reworking hitboxes/ collisions into a trait format
+		3. Maze algorithm work for the procedural generation team.  We want to decide on an alg for each aspect and start implementing
+		4. Item pickup detection
+		5. Speed and health power up items are dropped from enemies instead of immediately absorbed
+		6. Decide on method for Ai for advanced AI team
+		7. Enable half heart damage
+		8. create attacks for enemies rather than just collision damage
+		9. Refactor code to be more intiutive
 8. 07/21 - 07/27
 	* Manager: NAME
 	* Goals:
