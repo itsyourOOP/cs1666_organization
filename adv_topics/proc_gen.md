@@ -18,12 +18,24 @@
 
 ## Presentation 2
 
-* Topic 1
-	* Details
-	* Details
-	* Details
-* Topic 2
-	* Details
-	* Details
-	* Details
+* Introduction (approx 5 min.)
+	* Quick recap of maze generation 
+		* Key Terms
+	* How pokemon & runescape use procedural generation
+* Topic 1 - Deep dive into Ellers algorithm (20 min.)
+	* Overview of Ellers algorithm
+		* Relevant background information
+		* Eller's algorithm use cases
+	* Explain Pseudocode
+	* Run-Time Analysis
+	* Performance Costs
+	* Comparison of Ellers algorithm to other maze generation algorithms
+* Topic 2 - Our Implementation of  Ellers algorithm (20 mins)
+	* Where we implemented Eller’s algorithm
+	* Implementation details on our Gym Mazes
+		* Three Mazes in each gym 
+	* Implementation of Spawnable Monsters on Map
+		* Random Spawn Locations 
+	* Roadblocks/Advantages in our Implementation	 	
 ...
+
