@@ -35,9 +35,6 @@
 
 * Introduction (10 min)
 	* General introduction of what it is
-	* History of AI
-		* Mario AI, AI in its simplest form
-		* Hardware improvements lead to improvements in AI
 	* Psuedointelligence vs artificial intelligence
 		* Psudeointelligence mimics what we think of AI, it gives enemies and NPCs
 			directions, giving the appearance of AI
@@ -47,11 +44,11 @@
 		* State Machine AI
 		* Neural Networks
 			* Deep Learning and the training process to improve in-game AI
-* Topic 1 - Deep Dive of State Machine vs Machine Learning (Neural Networks)
+* Topic 1 - Deep Dive of State Machine vs Machine Learning (Neural Networks) (15 min)
 	* Discussion of a traditional State Machine and their approaches
 	* Discussion of Machine Learning and different implementations and use cases
 	* How the two types of AI are different, but how they can also work together
-* Topic 2 - Our Approach for the AI engine
+* Topic 2 - Our Approach for the AI engine (20 min)
 	* What type of AI we decided on (an advanced state machine)
 	* A coordinated approach to AI, where the enemies work together based on enemy type
 		and the current status of the player
