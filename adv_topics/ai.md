@@ -33,17 +33,17 @@
 
 ## Presentation 2
 
-* Introduction (10 min)
+* Introduction (5 min)
 	* General introduction of what it is
 	* Psuedointelligence vs artificial intelligence
 		* Psudeointelligence mimics what we think of AI, it gives enemies and NPCs
 			directions, giving the appearance of AI
 		* 'True' AI actually learns from the game itself and the player to improve itself		
-	* Different types of AI (quick introduction)
-		* Stateless AI
-		* State Machine AI
-		* Neural Networks
-			* Deep Learning and the training process to improve in-game AI
+* Different types of AI (quick introduction) (5 min)
+	* Stateless AI
+	* State Machine AI
+	* Neural Networks
+		* Deep Learning and the training process to improve in-game AI
 * Topic 1 - Deep Dive of State Machine vs Machine Learning (Neural Networks) (15 min)
 	* Discussion of a traditional State Machine and their approaches
 	* Discussion of Machine Learning and different implementations and use cases
