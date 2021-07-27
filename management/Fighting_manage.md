@@ -56,5 +56,5 @@
 9. 07/28 - 08/03
 	* Manager: Alexis Sanders (als429)
 	* Goals:
-		1. GOAL1
-		...		
+		1. Integrate networking into main.rs
+		2. ...
