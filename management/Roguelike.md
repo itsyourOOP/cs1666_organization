@@ -58,5 +58,12 @@
 9. 07/28 - 08/03
 	* Manager: Dan Rothman (der57)
 	* Goals:
-		1. GOAL1
+		•Apply AI to all enemies, as well as implement some sort of pathfinding so the enemy can find the player. 
+		•Implement a director for AI to get the enemies to work together.
+		•Fix all bugs in procedural generation of rooms.
+		•Make the doors of the room lock until all enemies are defeated.
+		•Add 3 more enemy types.
+		•Frame independent movement.
+		•Implement final boss (stretch goal).
+
 		...		
