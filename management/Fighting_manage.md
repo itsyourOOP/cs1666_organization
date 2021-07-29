@@ -56,5 +56,7 @@
 9. 07/28 - 08/03
 	* Manager: Alexis Sanders (als429)
 	* Goals:
-		1. GOAL1
-		...		
+		1. Integrate networking into main.rs
+		2. Fix bugs in physics engine
+		3. Add impact-based sound effect
+		4. Health logic, when character reaches 0, KO
