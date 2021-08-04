@@ -49,5 +49,6 @@
 9. 07/28 - 08/03
 	* Manager: Azeez Hakeem (azh15)
 	* Goals:
-		1. GOAL1
+		1. Complete main game
+		2. Complete stretch goals 
 		...		

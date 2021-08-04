@@ -1,14 +1,14 @@
 # Magagment week end report
-manager_name: ""
-week: 1
+manager_name: "Azeez Hakeem"
+week: 9
 # Specific goals:
 goal:
-  - desc: ""
+  - desc: "Complete main game"
     prs: []
-    status: ""
-  - desc: ""
+    status: "Completed"
+  - desc: "Complete stretch goals"
     prs: []
-    status: ""
+    status: "Completed"
 # Team member evalution
 team_members:
   - PITTIDHERE: ""
